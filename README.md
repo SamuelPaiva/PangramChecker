@@ -22,5 +22,7 @@ The program was tested on Windows and Linux.
 
 To use the program on your Windows os follow these steps:
 
-1.
+1. Download the zipfile using this button:
+
+![PangramChecker](DownloadZip.png)
 
