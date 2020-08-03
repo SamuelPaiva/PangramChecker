@@ -26,20 +26,21 @@ To use the program on your Windows os follow these steps:
 
 ![PangramChecker](DownloadZip.png)
 
-2. Save the file in any directory you like. 
-As you can see in the first two pictures, I've saved my files in a directory called "Challenge", which is located on my Desktop, so it's easy for me to run the file with the comand line, which I'll explain in the next step.
+2. Save the file in any folder you like, but make sure you know where. 
+As you can see in the first two pictures, I've saved my files in a folder called "Challenge", which is located on my Desktop, so it's easy for me to run the file using the comandprompt, which I'll explain in the next step.
 
 ![PangramChecker](Desktop.png)
 
-3. Open cmd and use the cd comand to navigate to your directory 
+3. Open your comandpromt and use the "cd" comand to navigate to your folder 
 Since my directory is located on my desktop, I have to type in these two comands:
 
 ![PangramChecker](comand.png)
 
-Now im in the directory where the PangramChecker.py is stored.
+Now I'm in the folder where the PangramChecker.py is stored.
 
 4.Now lets run it using "PYTHON PANGRAMCHECKER.PY". 
 This should start the program. A sentence will appear, which says "Check for Pangram".
+Make sure you typed in everything right, of course you can copy and paste the comand.
 
 5. You are ready to go.
 
