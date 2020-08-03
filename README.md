@@ -6,11 +6,11 @@ If the sentence does not contain all the letters of the alphabet, the program te
 
 Just like this:
 
-![PangramChecker](PangramChecker.png)
+![PangramChecker](Pictures/PangramChecker.png)
 
 or this:
 
-![PangramChecker](FalsePangram.png)
+![PangramChecker](Pictures/FalsePangram.png)
 
 
 ## Installation
@@ -24,7 +24,7 @@ To use the program on your Windows os follow these steps:
 
 1. Download and extract the zipfile using this button:
 
-![PangramChecker](DownloadZip.png)
+![PangramChecker](Pictures/DownloadZip.png)
 
 2. Save the file in any folder you like, but make sure you know where. 
 As you can see in the first two pictures, I've saved my files in a folder called "Challenge", which is located on my Desktop, so it's easy for me to run the file using the commandprompt, which I'll explain in the next step.
@@ -34,7 +34,7 @@ As you can see in the first two pictures, I've saved my files in a folder called
 3. Open your commandpromt and use the "cd" comand to navigate to your folder. 
 Since my directory is located on my desktop, I have to type in these two comands:
 
-![PangramChecker](comand.png)
+![PangramChecker](Pictures/comand.png)
 
 Now I'm in the folder where the PangramChecker.py is stored.
 
@@ -54,7 +54,7 @@ For Linux it's even more simple.
 
 3. The program should be running now.
 
-![PangramChecker](Linux.png)
+![PangramChecker](Pictures/Linux.png)
 
 ## Support and questions
 
