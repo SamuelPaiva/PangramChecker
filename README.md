@@ -22,7 +22,7 @@ The program was tested on Windows and Linux.
 
 To use the program on your Windows os follow these steps:
 
-1. Download the zipfile using this button:
+1. Download and extract the zipfile using this button:
 
 ![PangramChecker](DownloadZip.png)
 
@@ -43,4 +43,15 @@ This should start the program. A sentence will appear, which says "Check for Pan
 Make sure you typed in everything right, of course you can copy and paste the comand.
 
 5. You are ready to go.
+
+#### For Linux 
+
+For Linux it's even more simple.
+
+1. Just click the folder after extraction where the program is stored and select "open in terminal". This will save us the comands we typed in the comandprompt of Windows.
+
+2. Now instead of typing "PYTHON PANGRAMCHECKER.PY", just type python3 PangramChecker.py.
+
+3. The program should be running now.
+
 
