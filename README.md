@@ -55,3 +55,8 @@ For Linux it's even more simple.
 3. The program should be running now.
 
 ![PangramChecker](Linux.png)
+
+## Support and questions
+
+For support and questions feel free to contact me by e-mail.
+Send your e-mail to: samupaiva17@gmail.com
