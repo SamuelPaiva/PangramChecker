@@ -29,7 +29,7 @@ To use the program on your Windows os follow these steps:
 2. Save the file in any folder you like, but make sure you know where. 
 As you can see in the first two pictures, I've saved my files in a folder called "Challenge", which is located on my Desktop, so it's easy for me to run the file using the commandprompt, which I'll explain in the next step.
 
-![PangramChecker](Desktop.png)
+![PangramChecker](Pictures/Desktop.png)
 
 3. Open your commandpromt and use the "cd" comand to navigate to your folder. 
 Since my directory is located on my desktop, I have to type in these two comands:
