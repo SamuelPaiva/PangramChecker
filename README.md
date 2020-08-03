@@ -11,3 +11,8 @@ Such as:
 or
 
 ![PangramChecker](FalsePangram.png)
+
+
+## Installation
+
+
