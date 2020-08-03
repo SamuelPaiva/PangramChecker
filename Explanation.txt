@@ -1,0 +1,9 @@
+Dear reader, 
+
+I'm writing this to explain how I solved the given pangramchallenge.
+First of all I thought of possible solutions and wrote them down.
+Then I broke the steps down on how I wanted the program to work.
+In this case I wanted to check every letter if it's there, from a to z.
+If it's the case that one or more letters are missing, the program should check from a to z which letters are missing and print them out.
+After that I went deeper into detail on how I should write the code then I started coding and doing it simple to avoid errors.
+In the end I tested the code on Windows 10 and Linuxmint.  
