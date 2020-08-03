@@ -26,3 +26,8 @@ To use the program on your Windows os follow these steps:
 
 ![PangramChecker](DownloadZip.png)
 
+2. Save the file in any directory you like. 
+As you can see in the first two pictures, I've saved my files in a directory called "Challenge", which is located on my Desktop, so it's easy for me to run the file with the comand line, which I'll explain in the next step.
+
+![PangramChecker](Desktop.png)
+
