@@ -27,18 +27,18 @@ To use the program on your Windows os follow these steps:
 ![PangramChecker](DownloadZip.png)
 
 2. Save the file in any folder you like, but make sure you know where. 
-As you can see in the first two pictures, I've saved my files in a folder called "Challenge", which is located on my Desktop, so it's easy for me to run the file using the comandprompt, which I'll explain in the next step.
+As you can see in the first two pictures, I've saved my files in a folder called "Challenge", which is located on my Desktop, so it's easy for me to run the file using the commandprompt, which I'll explain in the next step.
 
 ![PangramChecker](Desktop.png)
 
-3. Open your comandpromt and use the "cd" comand to navigate to your folder 
+3. Open your commandpromt and use the "cd" comand to navigate to your folder. 
 Since my directory is located on my desktop, I have to type in these two comands:
 
 ![PangramChecker](comand.png)
 
 Now I'm in the folder where the PangramChecker.py is stored.
 
-4.Now lets run it using "PYTHON PANGRAMCHECKER.PY". 
+4. Lets run it using "PYTHON PANGRAMCHECKER.PY". 
 This should start the program. A sentence will appear, which says "Check for Pangram".
 Make sure you typed in everything right, of course you can copy and paste the comand.
 
@@ -48,10 +48,10 @@ Make sure you typed in everything right, of course you can copy and paste the co
 
 For Linux it's even more simple.
 
-1. Just click the folder after extraction where the program is stored and select "open in terminal". This will save us the comands we typed in the comandprompt of Windows.
+1.After extraction just click the folder where the program is stored and select "open in terminal". This will save us the comands we typed in the commandprompt of Windows.
 
-2. Now instead of typing "PYTHON PANGRAMCHECKER.PY", just type python3 PangramChecker.py.
+2. Now instead of typing "PYTHON PANGRAMCHECKER.PY", just type "python3 PangramChecker.py".
 
 3. The program should be running now.
 
-
+![PangramChecker](Linux.png)
