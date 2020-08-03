@@ -15,4 +15,12 @@ or
 
 ## Installation
 
+#### Requirements
+
+This is a really simple program so it should work fine on every operating system.
+The program was tested on Windows and Linux.
+
+To use the program on your Windows os follow these steps:
+
+1.
 
