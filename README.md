@@ -31,3 +31,13 @@ As you can see in the first two pictures, I've saved my files in a directory cal
 
 ![PangramChecker](Desktop.png)
 
+3. Open cmd and use the cd comand to navigate to your directory 
+Since my directory is located on my desktop, I have to type in these two comands:
+
+![PangramChecker](Comand.png)
+
+Now im in the directory where the PangramChecker.py is stored.
+
+4.Now lets run it using "PYTHON PANGRAMCHECKER.PY". 
+This should start the program. A sentence will appear, which says "Check for Pangram".
+
